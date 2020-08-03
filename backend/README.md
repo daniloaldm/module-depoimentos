@@ -11,7 +11,7 @@ Deve ser possível cadastrar os depoimentos que foram feitos em redes sociais so
 
 * **Nome:** Nome do usuário que realizou o depoimento na rede ocial (obrigatório)
 * **Comentário:** Depoimento escrito pelo usuário que realizou o depoimento na rede social (obrigatório)
-* **Foto:** Foto do usuário que realizou o depoimento na rede social, em caso em que o usuário não tenha aplicar a logo da loja
+* **Foto:** Foto do usuário que realizou o depoimento na rede social, em caso em que o usuário não tenha, aplicar a logo da loja
 * **Data do depoimento:** Data em que o depoimento ocorreu (obrigatório)
 * **Rede social:** A rede social em que o depoimento ocorreu (obrigatório)
 
