@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Fastfeet" title="Bleez" src="assets/logo.png" width="150px" />
+  <img alt="Fastfeet" title="Bleez" src="assets/logo2.png" width="150px" />
 </h1>
 
 <h3 align="center">
