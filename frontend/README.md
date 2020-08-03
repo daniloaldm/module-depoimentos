@@ -4,7 +4,7 @@ A seguir estão descritas as especificações de implementação do frontend do 
 ## :art: Layout
 O layout do desafio foi desenvolvido no [Figma](https://www.figma.com/) está disponível nesse [link](https://www.figma.com/file/nH7DkbJWnk68QQq6JIXdKY/Testimonial?node-id=0%3A1). 
 
-Você deve usar este link para visualizar as telas da aplicação e as propriedades dos componentes do layout para guiar a sua implementação.
+Você deve usar este link para visualizar a tela da aplicação e as propriedades dos componentes do layout para guiar a sua implementação.
 
 ## Fluxo de visualização
 O fluxo do cliente da loja:
