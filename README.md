@@ -31,7 +31,7 @@ Durante este desafio você irá construir um módulo que registre os depoimentos
 	* O administrador da loja pode cadastrar a foto do perfil da rede social da pessoa que realizou o depoimento
 	* O administrador da loja pode cadastrar a data que o depoimento aconteceu
 	* O administrador da loja pode cadastrar qual rede social ocorreu o depoimento
-* O administrador da loja deve conseguir gerenciar múltiplos depoimentos (ativar, desativar, excluir, filtrar etc).
+* O administrador da loja deve conseguir gerenciar múltiplos depoimentos (ativar, desativar, editar, excluir, filtrar etc).
 
 
 ## :pencil: Critérios de avaliação
