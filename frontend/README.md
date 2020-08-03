@@ -1,0 +1,13 @@
+# Especificações técnicas do frontend do Módulo de Depoimentos
+A seguir estão descritas as especificações de implementação do frontend do Módulo de Depoimentos
+
+## :art: Layout
+O layout do desafio foi desenvolvido no [Figma](https://www.figma.com/) está disponível nesse [link](https://www.figma.com/file/nH7DkbJWnk68QQq6JIXdKY/Testimonial?node-id=0%3A1). 
+
+Você deve usar este link para visualizar as telas da aplicação e as propriedades dos componentes do layout para guiar a sua implementação.
+
+## Fluxo de visualização
+O fluxo do cliente da loja:
+1. O usuário que está acessando a loja deve visualizar os depoimentos no fim da página inicial
+1. O usuário que está acessando a loja deve conseguir ler todos os depoimentos, clicando na opção de "ver mais", sendo direcionado para outra página
+1. Na página com todos os depoimentos deve haver paginação e a opção para o cliente voltar para a página inicial
