@@ -12,11 +12,11 @@
 <p align="center">
   <a href="#sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#histórias-de-usuário">Histórias de usuário</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-critérios-de-avaliação">Critérios de avaliação</a>&nbsp;&nbsp;&nbsp; <!-- |&nbsp;&nbsp;&nbsp;
-<a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-critérios-de-avaliação">Critérios de avaliação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#date-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;
-</p> -->
+</p>
 
 
 ## Sobre o desafio
