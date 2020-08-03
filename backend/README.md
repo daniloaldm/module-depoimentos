@@ -1,7 +1,8 @@
 # Especificações técnicas de backend do Módulo de Depoimentos
 
 ## Interface administrativa
-Você deverá implementar uma interface administrativa na qual o administrador da loja poderá cadastrar os depoimentos, contendo nome, comentário, foto,  data do depoimento e rede social. Utilize a ferramenta de  interface administrativa do Magento 2 para criar esta interface (veja a [documentação]([https://www.mageplaza.com/magento-2-module-development/create-system-xml-configuration-magento-2.html](https://www.mageplaza.com/magento-2-module-development/create-system-xml-configuration-magento-2.html)))
+Você deverá implementar uma interface administrativa na qual o administrador da loja poderá cadastrar os depoimentos, contendo nome, comentário, foto,  data do depoimento e rede social. Utilize a ferramenta de  interface administrativa do Magento 2 para criar esta interface (veja a [documentação](https://www.mageplaza.com/magento-2-module-development/create-system-xml-configuration-magento-2.html))
+
 
 A interface administrativa deve conter as funcionalidades a seguir:
 
