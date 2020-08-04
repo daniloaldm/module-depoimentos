@@ -5,6 +5,12 @@ Você deverá implementar uma interface administrativa na qual o administrador d
 
 A interface administrativa deve conter as funcionalidades a seguir:
 
+<h1 align="left">
+  <img alt="Bleez" title="Bleez" src="../assets/img1.png" width="450px" />
+  <img alt="Bleez" title="Bleez" src="../assets/img2.png" width="450px" />
+  <img alt="Bleez" title="Bleez" src="../assets/img3.png" width="450px" />
+</h1>
+
 ### Cadastrar depoimentos
 Deve ser possível cadastrar os depoimentos que foram feitos em redes sociais sobre a loja atendendo as seguintes informações:
 
