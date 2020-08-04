@@ -23,7 +23,7 @@
 Durante este desafio você irá construir um módulo com um CRUD para que o lojista possa registrar manualmente os depoimentos de diversas redes sociais, sendo elas facebook, instagram e twitter. 
 1. Deve ser possível acessar uma página no frontend da loja com a listagem de todos esses depoimentos;
 2. Deve ser possível incluir este compomenente de depoimentos em outras páginas além da home.
-3. Deve ser possível escolher quais depoimentos apareceram  no ponto 2
+3. Deve ser possível escolher quais depoimentos aparecem no ponto 2
 
 ## Histórias de usuário
 * O administrador da loja pode cadastrar um depoimento
