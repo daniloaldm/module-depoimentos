@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Magento" title="MAgento" src="assets/logo.png" width="200px" />
+  <img alt="Magento" title="Magento" src="assets/magento2-logo.png" width="600px" />
 </h1>
 
 <h3 align="center">
