@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Bleez" title="Bleez" src="assets/logo2.png" width="200px" />
+  <img alt="Magento" title="MAgento" src="assets/logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
