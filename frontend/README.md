@@ -2,7 +2,7 @@
 A seguir estão descritas as especificações de implementação do frontend do Módulo de Depoimentos
 
 ## :art: Layout
-O layout do desafio foi desenvolvido no [Figma](https://www.figma.com/) está disponível nesse [link](https://www.figma.com/file/nH7DkbJWnk68QQq6JIXdKY/Testimonial?node-id=0%3A1). 
+O layout do desafio foi desenvolvido no [Figma](https://www.figma.com/) está disponível nesse [link](https://www.figma.com/design/O2AojDqVCx1TlIdKjxbMux/Untitled?node-id=2-0&t=MYeclV6Qckn0Lwzq-0). 
 
 Você deve usar este link para visualizar a tela da aplicação e as propriedades dos componentes do layout para guiar a sua implementação.
 
